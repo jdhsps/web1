@@ -2,3 +2,4 @@ folium
 streamlit_folium
 matplotlib
 numpy
+streamlit-drawable-canvas

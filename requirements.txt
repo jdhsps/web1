@@ -4,3 +4,4 @@ matplotlib
 numpy
 streamlit-drawable-canvas
 plotly
+streamlit_plotly_events

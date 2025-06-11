@@ -11,8 +11,9 @@ st.markdown("""
         .banner {
             position: relative;
             background-image: url("https://a.travel-assets.com/findyours-php/viewfinder/images/res70/348000/348698-Madrid.jpg");
+            background-position: center 60px;
             background-size: cover;
-            height: 800px;
+            height: 600px;
             color: white;
             text-align: center;
             display: flex;

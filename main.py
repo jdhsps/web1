@@ -10,7 +10,7 @@ st.markdown("""
     <style>
         .banner {
             position: relative;
-            background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/9e/Plaza_Mayor_de_Madrid_06.jpg");
+            background-image: url("https://a.travel-assets.com/findyours-php/viewfinder/images/res70/348000/348698-Madrid.jpg");
             background-size: cover;
             height: 400px;
             color: white;

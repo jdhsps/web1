@@ -12,7 +12,7 @@ st.markdown("""
             position: relative;
             background-image: url("https://a.travel-assets.com/findyours-php/viewfinder/images/res70/348000/348698-Madrid.jpg");
             background-size: cover;
-            height: 400px;
+            height: 800px;
             color: white;
             text-align: center;
             display: flex;

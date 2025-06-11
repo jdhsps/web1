@@ -32,7 +32,7 @@ def simulate_three_body_3d(pos, vel, masses, G=1.0, dt=0.01, steps=1000):
 st.set_page_config(page_title="🌌 삼체 시뮬레이션 3D", layout="wide")
 st.title("🌌 삼체 문제 3D 시뮬레이션")
 
-st.sidebar.header("🛠️ 초기 조건")
+st.sidebar.header("🛠️ 초기 조건 (스텝 수를 조절해서 결과물을 확인하세요)")
 
 # 초기 질량 설정
 mass1 = st.sidebar.slider("질량 1", 0.1, 10.0, 1.0)
